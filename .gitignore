@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/raw
+data/processed/multimedia_index.csv
+data/processed/partitioned_poland_occurence
+renv
